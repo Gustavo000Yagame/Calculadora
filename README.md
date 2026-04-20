@@ -1,8 +1,8 @@
-Calculadora em Ruby
+##Calculadora em Ruby
 
 Projeto simples feito em Ruby com o objetivo de explorar uma nova linguagem por hobby.
 
-Sobre
+##Sobre
 
 Esta é uma calculadora básica que realiza operações matemáticas simples como soma, subtração, multiplicação e divisão.
 
